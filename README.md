@@ -9,7 +9,7 @@ The College Management System is a comprehensive web application designed to str
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/psrsekhar//cms-reactjs.git
+   git clone https://github.com/psrsekhar/cms-reactjs.git
 2. Navigate to the project directory:
    ```bash
    cd cms-reactjs
