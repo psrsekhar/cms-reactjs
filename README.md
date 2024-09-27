@@ -18,7 +18,7 @@ The College Management System is a comprehensive web application designed to str
    npm install  
 4. Start the application:
    ```bash
-   npm start 
+   npm start (or) npm run dev
 
 ## Usage
 - Open your web browser and navigate to http://localhost:3000 to access the application.
@@ -32,9 +32,6 @@ Contributions are welcome! Please follow these steps to contribute:
 - Make and commit your changes (git commit -m 'Add some feature').
 - Push to the branch (git push origin feature/YourFeature).
 - Open a pull request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
